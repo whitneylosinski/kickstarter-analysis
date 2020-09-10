@@ -7,6 +7,7 @@ The data showed that theater and play campaigns are relatively popular and succe
 
 
 When comparing starting dates to the level of success for theater campaigns, the graph below shows that the months of May and June have a greater success rate with success tapering off toward the end of the year.  
+
 ![Line Chart](https://github.com/whitneylosinski/kickstarter-analysis/blob/master/Line%20Chart.png)
 
 Another trend discovered from the data is that failed play campaigns tend to have higher fundraising goals with the average goal of successful campaigns at $5,000 and the average goal of failed campaigns more than double that at $10,500.  However, the goal may not be the only factor in determining success, as the average pleged for failed campaigns was only $500 versus the average $5,600 pledged for successful campaigns.
