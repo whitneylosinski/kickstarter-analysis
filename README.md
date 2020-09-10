@@ -2,6 +2,7 @@
 Performed an analysis on Kickstarter data to uncover trends for successful crowdfunding campaigns, specifically looking at theater and play campaigns.  
 
 The data showed that theater and play campaigns are relatively popular and successful campaigns compared to other categories on Kickstarter.  This can be seen in the pivot chart below.
+
 ![Pivot Chart](https://github.com/whitneylosinski/kickstarter-analysis/blob/master/Pivot%20Chart.png)
 
 
