@@ -1,10 +1,10 @@
 # An Analysis of Kickstarter Campaigns
 
-##Overview of Project
+## Overview of Project
 
 The purpose of this project was to analyze Kickstarter data to uncover trends for successful crowdfunding campaigns, specifically looking at theater and play campaigns.  
 
-##Analysis and Challenges
+## Analysis and Challenges
 
 By formatting the data into a pivot table and filtering the Parent Category to "theater", I was able to compare the successfulness of theater campaigns based on the month they were launched.  The graph below shows how many campaigns were successful, failed or canceled compared to the month that they were launched.  
 
@@ -16,7 +16,7 @@ For the next analysis, countif() filters were applied to the data to compare the
 
 No challenges/difficulties with the data were found when performing these anlayses but it is important to note that the deadline and launched_at columns of the original data contained Unix timestamps rather than dates in a standard format.  These columns had to be converted using a timestamp conversion formula of =(((J2/60)/60)/24)+DATE(1970,1,1).
 
-##Results
+## Results
 
 - Looking at the results of the data, it can be determined that theater campaigns are relativley popular and successful campaigns on Kickstarter compared to campaigns in other categories.  From the Theater Outcomes vs Launch graph, we can see that May and June appear to be the most successful months to start a theater campaign while November and December appear to be the worst months to start a campaign.
 
